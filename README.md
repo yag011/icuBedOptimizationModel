@@ -5,5 +5,6 @@ This project consists of two portions
 1) PPT presentation (Final Presentation.pdf) and 2) Research paper (Final Report.pdf)
 
 Data source:
+
 This project used a variety of data sources. We have cited them all in our paper.
 
